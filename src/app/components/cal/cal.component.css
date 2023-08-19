@@ -1,0 +1,8 @@
+
+.calendario{
+    display: grid;
+    justify-content: center;
+}
+P{
+    text-align: center;
+}
